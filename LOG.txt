@@ -1,0 +1,84 @@
+
+ CHANGELOG
+ =========
+
+ 26.05.2015 (Christoph Haag)
+ ----------
+
+ - EDIT/150526_fontain.svg
+ - EDIT/150526_letterset.sh
+   generate letterset and append
+   to existing svg file
+
+
+ 23.05.2015 (Christoph Haag)
+ ----------
+
+ - EDIT/150523_fontain.svg
+   fontain propaganda
+
+
+ 17.05.2015 (Christoph Haag)
+ ----------
+ 
+ - EDIT/150517_miniurl.svg:
+   twoliner for freeze.sh
+   free
+   zesh
+
+ - EDIT/150516_dwlddiy.svg:
+   continue; looking for f/l/os replacement
+   for Paul Renner's Futura. Unsatisfying.
+   Switching to lowercase from wikipedia
+   specimen => matching more lookandfeel.
+
+
+ 16.05.2015 (Christoph Haag)
+ ----------
+ 
+ - EDIT/150516_dwlddiy.svg:
+   just do it.
+   -> just download it and diy
+
+
+ 14.05.2015 (Christoph Haag)
+ ----------
+
+ - incoming/How_and_Why_Library_002.jpg:
+   = reference
+ - EDIT/150514_how+why.svg:
+   rebuilding as vector.
+
+
+ 31.03.2015 (Christoph Haag)
+ ----------
+
+ - EDIT/150331_adress.svg:
+   adress labels to ship 'conversations';
+   using inkscape's clone object.
+
+ - EDIT/150331_buchersendung.svg:
+   'Büchersendung' labels; shipping books
+   is more cheap in Germany. Using text
+   as reference to f/l/os fonts.
+
+
+ 23.03.2015 (Christoph Haag)
+ ----------
+
+ - EDIT/150323_buchersendung.svg:
+   draft stickers to ship 'conversations'
+
+
+ 
+ ACKNOWLEDGEMENTS 
+ ================
+ 
+ If you make modifications be sure to add your name (N),
+ email (E) and web-address (if you have one) (W).
+ This list is in alphabetical order.
+ 
+ N: Christoph Haag
+ E: christoph@lafkon.net
+ W: www.lafkon.net/ch
+
