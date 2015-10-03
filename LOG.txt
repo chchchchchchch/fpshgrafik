@@ -2,6 +2,14 @@
  CHANGELOG
  =========
 
+ 03.10.2015 (Christoph Haag)
+ ----------
+ - EDIT/131110_LGRU.sh
+ - EDIT/131110_LGRU.svg
+ - FREEZE/131110_LGRU.pdf
+   including older combinatioric
+   illustration; rendering versions
+
  26.05.2015 (Christoph Haag)
  ----------
 
